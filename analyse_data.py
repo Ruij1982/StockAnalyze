@@ -5,6 +5,7 @@ import tushare as ts
 from datetime import datetime
 
 
+
 class Growth:
     def __init__(self, file):
         self.encoding = 'gbk'
